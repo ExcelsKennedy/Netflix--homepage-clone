@@ -1,1 +1,1 @@
-# Netflix--homepage-clone
+# Netflix-homepage-clone
